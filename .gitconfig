@@ -1,0 +1,23 @@
+[user]
+	name = Brad Kahl
+  email = bkahl1984@gmail.com
+
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
+  ba = branch -a
+  s = stash
+  sa = stash apply
+  svnf = svn fetch
+  rb = rebase
+  fo = fetch origin
+  rom = rebase origin master
+  rbi = rebase -i
+  spull = svn rebase
+  spush = svn dcommit
+[core]
+	editor = mate -w
